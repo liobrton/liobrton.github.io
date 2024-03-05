@@ -1,1 +1,1 @@
-# Eliot Barton
+# Eliot
