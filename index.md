@@ -1,10 +1,9 @@
 <style>
-red {color: #260727;}
-background{background-color: #ed2323;}
+colour {color: #260727;}
 </style>
 
-<background>
-<red>
+
+<colour>
 
 # Eliot
 
@@ -13,5 +12,4 @@ background{background-color: #ed2323;}
 - **Started:** 5/03/24
 - **Role:** Software Developer
 - **Hobbies:** Drawing, Animation, TTRPGs, Taekwondo
-</red>
-</background>
+</colour>
